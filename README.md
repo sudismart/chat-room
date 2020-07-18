@@ -16,3 +16,5 @@ Functionality:
 1. Post any message by the input text 
 2. Select any image or video from public folder of this repo (as sources are limited to local folder) and post it.
 
+Heroku link: https://damp-ocean-38813.herokuapp.com/
+
